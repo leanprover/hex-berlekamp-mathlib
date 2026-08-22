@@ -22,6 +22,11 @@ git = "https://github.com/leanprover/hex-mod-arith-mathlib.git"
 rev = "0aab0ebded5d539f581252e74540cbba48e6d89b"
 
 [[require]]
+name = "HexPolyFpMathlib"
+git = "https://github.com/leanprover/hex-poly-fp-mathlib.git"
+rev = "d6f95baf8dc463f72423dfb3f7260892701b2fda"
+
+[[require]]
 name = "mathlib"
 git = "https://github.com/leanprover-community/mathlib4.git"
 rev = "v4.33.0-rc1"
