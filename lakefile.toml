@@ -9,22 +9,22 @@ leanOptions = [
 [[require]]
 name = "HexBerlekamp"
 git = "https://github.com/leanprover/hex-berlekamp.git"
-rev = "80c55f4aa9311583a259850e0aeea3b2c8cccc68"
+rev = "433bdbd9e962103d9ae5817ad5a87fac82e1af6f"
 
 [[require]]
 name = "HexPolyMathlib"
 git = "https://github.com/leanprover/hex-poly-mathlib.git"
-rev = "5897ba144a95f929e975c3eeb5a5c5a956f8e2ba"
+rev = "bc2b5505b543d9f0e6ef641901dab6c1bd97bf21"
 
 [[require]]
 name = "HexModArithMathlib"
 git = "https://github.com/leanprover/hex-mod-arith-mathlib.git"
-rev = "0aab0ebded5d539f581252e74540cbba48e6d89b"
+rev = "b7fa11ca42ab73c9970d051727b6e4013caf4e53"
 
 [[require]]
 name = "HexPolyFpMathlib"
 git = "https://github.com/leanprover/hex-poly-fp-mathlib.git"
-rev = "d6f95baf8dc463f72423dfb3f7260892701b2fda"
+rev = "e46f2f401aaf969d77db8003f235686449cf0c3f"
 
 [[require]]
 name = "mathlib"
